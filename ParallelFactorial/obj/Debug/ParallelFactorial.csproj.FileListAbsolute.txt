@@ -1,0 +1,15 @@
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\bin\Debug\ParallelFactorial.exe.config
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\bin\Debug\ParallelFactorial.exe
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\bin\Debug\ParallelFactorial.pdb
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\obj\Debug\ParallelFactorial.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\obj\Debug\App.g.cs
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\obj\Debug\ParallelFactorial_MarkupCompile.cache
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\obj\Debug\ParallelFactorial_MarkupCompile.lref
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\obj\Debug\MainWindow.baml
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\obj\Debug\ParallelFactorial.g.resources
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\obj\Debug\ParallelFactorial.Properties.Resources.resources
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\obj\Debug\ParallelFactorial.csproj.GenerateResource.cache
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\obj\Debug\ParallelFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\obj\Debug\ParallelFactorial.exe
+C:\Users\Vladimir\source\repos\OS\ParallelFactorial\ParallelFactorial\obj\Debug\ParallelFactorial.pdb
